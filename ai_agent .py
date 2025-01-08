@@ -7,7 +7,7 @@
 # #### * A concise analysis explaining why the project is or isn't a good fit.
 # #### * A list of specific relevant past projects or an explanation if none are directly applicable.
 
-# In[34]:
+# In[40]:
 
 
 from docx import Document
@@ -86,7 +86,8 @@ def evaluate_project(upwork_description):
     return gpt_response
 
 
-# In[35]:
+
+# In[41]:
 
 
 if __name__ == "__main__":
